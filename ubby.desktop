@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Ubby
+GenericName=Ubby
+Icon=ubby
+Comment=Software, Codec Installs & System Tweaks for Ubuntu
+Exec=ubby
+Terminal=false
+Type=Application
+Categories=System;Utility;
+Keywords=codec;ubuntu;fix;install;proprietary;

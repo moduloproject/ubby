@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    <id type="desktop">org.modulo.ubby.desktop</id>
+    <licence>GFDL</licence>
+    <name>Ubby</name>
+    <summary>Install codecs, software, and more...</summary>
+    <description>
+        <p>
+        Ubby lets you install multimedia codecs and additional software that
+        Ubuntu doesn't want to ship.
+        </p>
+    </description>
+    <screenshots>
+        <screenshot width="1360" height="765" type="default"></screenshot>
+        <screenshot width="1360" height="765"></screenshot>
+    </screenshots>
+    <url type="homepage">http://moduloproject.github.io/ubby/</url>
+    <updatecontact>themoduloteam@gmail.com</updatecontact>
+</application>

@@ -1,4 +1,6 @@
 # ubby
-A post installation tool for Ubuntu made from scratch
 
-Licensed under The GPL 2.0 license
+Ubby lets you install multimedia codecs and
+additional software that Ubuntu doesn't want to ship.
+
+Licensed under The GPL 2.0 license.
