@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# Script to install Ubby <https://moduloproject.github.io/ubby/>.
+
+if [[ ! $(whoami) = "root" ]]; then
+    echo "Please run the script as root."
+    exit 1
+fi
+
+echo "Adding repositories..."
+# add modulo ppa for ubby
+# sudo apt-get update
+
+echo "Installing ubby..."
+
+# sudo apt-get install ubby
+
+# Please report bugs at <https://github.com/moduloproject/ubby/issues>
+
